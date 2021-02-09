@@ -33,9 +33,9 @@
 
 ### ⚙️ GitHub Analytics
 
-<img height="188em" alt="KingstonTwelve's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KingstonTwelve&theme=cobalt&show_icons=true&include_all_commits=true" />
-<img height="188em" alt="KingstonTwelve's Github Laguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KingstonTwelve&theme=cobalt&layout=compact&hide=php" />
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@b63e191a-6e04-4dc9-a6b6-9dd5add83a0d/5c4b48e8-ae84-436c-9ef2-c9bb42fa0b3b.png" /></a>
+<img height="160em" alt="KingstonTwelve's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KingstonTwelve&theme=gruvbox&show_icons=true&include_all_commits=true" />
+<img height="160em" alt="KingstonTwelve's Github Laguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KingstonTwelve&theme=cobalt&layout=compact&hide=php" />
+<a href="https://wakatime.com"><img width="100%" src="https://wakatime.com/share/@b63e191a-6e04-4dc9-a6b6-9dd5add83a0d/5c4b48e8-ae84-436c-9ef2-c9bb42fa0b3b.png" /></a>
 
 ### Let's keep in touch!🤙
 
