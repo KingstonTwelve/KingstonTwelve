@@ -1,4 +1,4 @@
-Н### Hi there 👋
+### Hi there 👋
 ## I'm Maxim! I'm beginner developer. 🦥
 
 ### 🤙 Contacts:
