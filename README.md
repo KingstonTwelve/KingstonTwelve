@@ -1,5 +1,5 @@
-### Hi there 👋
-## I'm Maxim! I'm begginer developer. 🦥
+Н### Hi there 👋
+## I'm Maxim! I'm beginner developer. 🦥
 
 ### 🤙 Contacts:
 
