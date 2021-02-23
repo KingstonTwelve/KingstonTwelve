@@ -5,6 +5,7 @@
 
 [<img alt="KingstonTwelve | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img alt="KingstonTwelve | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img alt="KingstonTwelve | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegramk]
 
 ---
 
@@ -42,6 +43,7 @@
 [linkedin]: https://linkedin.com/in/KingstonTwelve
 [vk]: https://vk.com/KingstonTwelve
 [github]: https://github.com/KingstonTwelve
+[telegram]: https://t.me/KingstonTwelve
 <!--
 **KingstonTwelve/KingstonTwelve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
