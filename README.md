@@ -11,7 +11,7 @@
 
 ### 💻 Tech Stack:
 
-![HTML](https://img.shields.io/badge/-HTML-ffffff?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
