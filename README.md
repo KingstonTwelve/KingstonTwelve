@@ -34,14 +34,14 @@
 
 ### ⚙️ GitHub Analytics
 
-<!--<img height="160em" align="left" alt="KingstonTwelve's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KingstonTwelve&theme=cobalt&show_icons=true&include_all_commits=true" />-->
+<!--![KingstonTwelve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingstonTwelve&show_icons=true&theme=cobalt&layout=compact)-->
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-   <div style="width: 49%;">![KingstonTwelve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingstonTwelve&show_icons=true&theme=cobalt&layout=compact)</div>
-   <div style="width: 49%;">![KingstonTwelve's Github Laguages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KingstonTwelve&theme=cobalt&layout=compact)</div>
+   <div style="width: 49%;"><img height="160em" align="left" alt="KingstonTwelve's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KingstonTwelve&theme=cobalt&show_icons=true&include_all_commits=true" /></div>
+   <div style="width: 49%;"><img height="160em" align="rigth" alt="KingstonTwelve's Github Laguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KingstonTwelve&theme=cobalt&layout=compact&hide=php" /></div>
 </div>
 
-<!--<img height="160em" align="rigth" alt="KingstonTwelve's Github Laguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KingstonTwelve&theme=cobalt&layout=compact&hide=php" />-->
+<!--![KingstonTwelve's Github Laguages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KingstonTwelve&theme=cobalt&layout=compact)-->
 <a href="https://wakatime.com"><img width="100%" src="https://wakatime.com/share/@b63e191a-6e04-4dc9-a6b6-9dd5add83a0d/5c4b48e8-ae84-436c-9ef2-c9bb42fa0b3b.png" /></a>
 
 
