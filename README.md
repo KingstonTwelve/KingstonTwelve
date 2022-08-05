@@ -7,12 +7,18 @@
 ![linkedin](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=016eab)&nbsp;
 ![telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram&logoColor=00a7d9)&nbsp;
 ![vk](https://img.shields.io/badge/-VK-333333?style=flat&logo=vk&logoColor=4a719e)&nbsp;
--->
+
 
 
 [<img alt="KingstonTwelve | LinkedIn" width="22px" src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=016eab" />][linkedin]
 [<img alt="KingstonTwelve | VK" width="22px" src="https://img.shields.io/badge/-VK-333333?style=flat&logo=vk&logoColor=4a719e" />][vk]
 [<img alt="KingstonTwelve | Telegram" width="22px" src="https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram&logoColor=00a7d9" />][telegram]
+-->
+
+[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=flat&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="webDev | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />][twitter]
+[<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=flat&logo=vk&logoColor=white" />][vk]
+[<img alt="KingstonTwelve | Telegram" src="https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram&logoColor=00a7d9" />][telegram]
 
 ---
 
@@ -73,6 +79,7 @@
 [vk]: https://vk.com/KingstonTwelve
 [github]: https://github.com/KingstonTwelve
 [telegram]: https://t.me/KingstonTwelve
+[twitter]: https://twitter.com/kingstontwelve
 <!--
 **KingstonTwelve/KingstonTwelve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
