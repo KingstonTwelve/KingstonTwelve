@@ -3,9 +3,9 @@
 
 ### 🤙 Contacts:
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=016eab)&nbsp;
-![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram&logoColor=00a7d9)&nbsp;
-![VK](https://img.shields.io/badge/-VK-333333?style=flat&logo=vk&logoColor=4a719e)&nbsp;
+![linkedin](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=016eab)&nbsp;
+![telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram&logoColor=00a7d9)&nbsp;
+![vk](https://img.shields.io/badge/-VK-333333?style=flat&logo=vk&logoColor=4a719e)&nbsp;
 
 <!--
 [<img alt="KingstonTwelve | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
