@@ -3,9 +3,15 @@
 
 ### 🤙 Contacts:
 
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=016eab)&nbsp;
+![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram&logoColor=00a7d9)&nbsp;
+![VK](https://img.shields.io/badge/-VK-333333?style=flat&logo=vk&logoColor=4a719e)&nbsp;
+
+<!--
 [<img alt="KingstonTwelve | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img alt="KingstonTwelve | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img alt="KingstonTwelve | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+-->
 
 ---
 
@@ -18,15 +24,19 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
+![Next](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=6d3fb3)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL&logoColor=e66ec6)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 
 ### 🛠 Tools:
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=WebStorm&logoColor=02c6d1)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello&logoColor=0079BF)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=GitLab&logoColor=0079BF)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira&logoColor=0079BF)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 
@@ -34,10 +44,23 @@
 
 ### ⚙️ GitHub Analytics
 
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KingstonTwelve&theme=algolia" alt="KingstonTwelve's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="KingstonTwelve's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KingstonTwelve&theme=algolia&layout=compact" />
+    </td>
+  </tr>
+</table>
+
 <!--<img height="160em" align="left" alt="KingstonTwelve's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KingstonTwelve&theme=cobalt&show_icons=true&include_all_commits=true" />-->
 
+<!--
 ![KingstonTwelve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingstonTwelve&show_icons=true&theme=cobalt&layout=compact)
 ![KingstonTwelve's Github Laguages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KingstonTwelve&theme=cobalt&layout=compact)
+-->
 
 <!--<img height="160em" align="rigth" alt="KingstonTwelve's Github Laguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KingstonTwelve&theme=cobalt&layout=compact&hide=php" />-->
 <a href="https://wakatime.com"><img width="100%" src="https://wakatime.com/share/@b63e191a-6e04-4dc9-a6b6-9dd5add83a0d/5c4b48e8-ae84-436c-9ef2-c9bb42fa0b3b.png" /></a>
