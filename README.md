@@ -3,15 +3,16 @@
 
 ### 🤙 Contacts:
 
+<!--
 ![linkedin](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=016eab)&nbsp;
 ![telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram&logoColor=00a7d9)&nbsp;
 ![vk](https://img.shields.io/badge/-VK-333333?style=flat&logo=vk&logoColor=4a719e)&nbsp;
-
-<!--
-[<img alt="KingstonTwelve | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img alt="KingstonTwelve | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img alt="KingstonTwelve | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 -->
+
+
+[<img alt="KingstonTwelve | LinkedIn" width="22px" src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=016eab" />][linkedin]
+[<img alt="KingstonTwelve | VK" width="22px" src="https://img.shields.io/badge/-VK-333333?style=flat&logo=vk&logoColor=4a719e" />][vk]
+[<img alt="KingstonTwelve | Telegram" width="22px" src="https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram&logoColor=00a7d9" />][telegram]
 
 ---
 
