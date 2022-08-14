@@ -70,7 +70,14 @@
 -->
 
 <!--<img height="160em" align="rigth" alt="KingstonTwelve's Github Laguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KingstonTwelve&theme=cobalt&layout=compact&hide=php" />-->
+<details>
+  <summary>
+    ### 📊 And more...
+  </summary>
+
 <a href="https://wakatime.com"><img width="100%" src="https://wakatime.com/share/@b63e191a-6e04-4dc9-a6b6-9dd5add83a0d/5c4b48e8-ae84-436c-9ef2-c9bb42fa0b3b.png" /></a>
+
+</details>
 
 
 ### Let's keep in touch!🤙
