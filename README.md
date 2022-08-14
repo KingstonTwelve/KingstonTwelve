@@ -80,7 +80,7 @@
 </details>
 
 
-### Let's keep in touch!🤙
+🤙### Let's keep in touch!
 
 [linkedin]: https://linkedin.com/in/KingstonTwelve
 [vk]: https://vk.com/KingstonTwelve
